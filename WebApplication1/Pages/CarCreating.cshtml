@@ -1,0 +1,30 @@
+@page
+@model WebApplication1.Pages.CarCreating
+
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+    <h2>@Model.Message</h2>
+    <form method="post" asp-antiforgery="true">
+        <p>
+            <label asp-for="temp.Name">Название</label><br/>
+            <input type="text" asp-for="temp.Name"/>
+        </p>
+        <p>
+            <label asp-for="temp.SitCounter"></label><br/>
+            <input asp-for="temp.SitCounter"/>
+        </p>
+        <input type="submit" value="Отправить"/>
+    </form>
+</div>
+</body>
+</html>

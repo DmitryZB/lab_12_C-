@@ -1,0 +1,31 @@
+@page "{Name}"
+@model WebApplication1.Pages.TaxiDepotViewID
+
+@{
+    Layout = "Shared/_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+    <h3>Сборка: @Model.TaxiDepot.Address </h3>
+    <h3>Количество частей: @Model.TaxiGroups.Count </h3>
+    <h3>Список частей: </h3>
+    <table>
+            <tr><th>Name</th><th>Quantity</th></tr>
+            @foreach(TaxiGroup taxigroup in Model.TaxiGroups)
+            {
+                <tr>
+                    <td>@taxigroup.Car_</td>
+                    <td>@taxigroup.Quantity</td>
+                </tr>
+            }
+        </table>
+</div>
+</body>
+</html>

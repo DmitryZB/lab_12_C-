@@ -8,7 +8,7 @@ builder.Services.AddRazorPages();
 
 
 string connection = builder.Configuration.GetConnectionString("DefaultConnection");
-builder.Services.AddDbContext<AssemblyContext>(options=>options.UseSqlite(connection));
+builder.Services.AddDbContext<TaxiDepotContext>(options=>options.UseSqlite(connection));
 
 // using (AssemblyContext db = new())
 // {
@@ -31,6 +31,7 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+// Razor pages Mapping
 app.MapRazorPages();
 
 app.Run();

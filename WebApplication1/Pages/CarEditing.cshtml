@@ -1,0 +1,25 @@
+@page
+@model WebApplication1.Pages.CarEditing
+
+@{
+    Layout = "Shared/_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+   <form method="post" asp-antiforgery="true">
+           <p>
+               <label asp-for="CarName">Название</label><br/>
+               <input type="text" asp-for="CarName"/>
+           </p>
+       <input type="submit" value="Отправить"/>
+       </form> 
+</div>
+</body>
+</html>

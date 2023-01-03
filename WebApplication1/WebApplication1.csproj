@@ -14,8 +14,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Content Include="Models\Assembly.cs" />
-      <Content Include="Models\Detail.cs" />
+      <Content Include="Models\Car.cs" />
     </ItemGroup>
 
     <ItemGroup>

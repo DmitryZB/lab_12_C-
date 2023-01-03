@@ -1,0 +1,54 @@
+@page "{Name}"
+@model WebApplication1.Pages.TaxiGroupCreating
+
+@{
+    Layout = "Shared/_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+    <button id="addRow" type="button" class="btn btn-info">Добавить машину в таксопарк</button>
+    <form method="post">
+        <div id="newRow">
+            <input type="hidden" id="total" value="0" />
+        </div>
+        <input type="submit" class="btn btn-primary"  value="Отправить" />
+    </form>
+</div>
+</body>
+</html>
+
+
+    
+@section Scripts
+{
+    <script>
+     $("#addRow").click(function ()
+     {
+         var rowCount = parseInt($("#total").val());
+         rowCount++;
+         $("#total").val(rowCount);
+         var html = '';
+         html += '<div id="inputRow">';
+         html += '<input type="text" name="[' + (rowCount - 1) + '].CarName"  />';
+         html += '<input type="number" name="[' + (rowCount - 1) + '].Quantity"  />';
+         html += '<button id="removeRow" type="button" class="btn btn-danger">Remove</button>';
+         html += '</div>';
+    
+         $('#newRow').append(html);
+     });
+     $(document).on('click', '#removeRow', function ()
+     {
+         var rowCount = parseInt($("#total").val());
+         rowCount--;
+         $("#total").val(rowCount);
+         $(this).closest('#inputRow').remove();
+     });
+     </script>
+}

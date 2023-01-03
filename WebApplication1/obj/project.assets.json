@@ -1364,24 +1364,25 @@
     ]
   },
   "packageFolders": {
-    "/Users/marmelad/.nuget/packages/": {}
+    "/Users/dimon/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marmelad/RiderProjects/lab12/WebApplication1/WebApplication1.csproj",
+      "projectUniqueName": "/Users/dimon/Desktop/PROGRAMMING/C#/lab12/WebApplication1/WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "/Users/marmelad/RiderProjects/lab12/WebApplication1/WebApplication1.csproj",
-      "packagesPath": "/Users/marmelad/.nuget/packages/",
-      "outputPath": "/Users/marmelad/RiderProjects/lab12/WebApplication1/obj/",
+      "projectPath": "/Users/dimon/Desktop/PROGRAMMING/C#/lab12/WebApplication1/WebApplication1.csproj",
+      "packagesPath": "/Users/dimon/.nuget/packages/",
+      "outputPath": "/Users/dimon/Desktop/PROGRAMMING/C#/lab12/WebApplication1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/marmelad/.nuget/NuGet/NuGet.Config"
+        "/Users/dimon/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1436,7 +1437,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

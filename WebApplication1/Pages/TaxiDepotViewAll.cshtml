@@ -1,0 +1,36 @@
+@page
+@model WebApplication1.Pages.TaxiDepotViewAll
+
+@{
+    Layout = "Shared/_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+    @foreach (TaxiDepot taxidepot in Model.TaxiDepots)
+    {
+      <h3>Сборка: @taxidepot.Address </h3>
+          <h3>Количество машин: @taxidepot.TaxiGroups.Count </h3>
+          <h3>Список машин: </h3>
+          <table>
+              <tr><th>Name</th><th>Quantity</th></tr>
+              @foreach (TaxiGroup taxigroup in taxidepot.TaxiGroups)
+              {
+                  <tr>
+                      <td>@taxigroup.CarName</td>
+                      <td>@taxigroup.Quantity</td>
+                  </tr>
+              }
+          </table> 
+        
+    }
+    
+</div>
+</body>
+</html>

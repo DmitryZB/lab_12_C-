@@ -1,0 +1,30 @@
+@page
+@using WebApplication1.Pages.Shared
+@model WebApplication1.Pages.AllCars
+
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+    <h2>Список Машин:</h2>
+    <table>
+        <tr><th>Name</th><th>SitCounter</th></tr>
+        @foreach(Car car in Model.DisplayedCars)
+        {
+            <tr>
+                <td>@car.Name</td>
+                <td>@car.SitCounter</td>
+            </tr>
+        }
+    </table>
+</div>
+</body>
+</html>

@@ -1,0 +1,32 @@
+@page "{Name}"
+@model WebApplication1.Pages.EditingForm
+
+@{
+    Layout = "Shared/_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+    <form method="post" asp-antiforgery="true">
+        <p>
+            <input type = "hidden" value ="@Model.car.Id" asp-for="car.Id"/>
+        </p> 
+        <p>
+            <label asp-for="car.Name">Название</label><br/>
+            <input type="text" value="@Model.car.Name" asp-for="car.Name"/>
+        </p>
+        <p>
+            <label asp-for="car.SitCounter"></label><br/>
+            <input value="@Model.car.SitCounter" asp-for="car.SitCounter"/>
+        </p>
+        <input type="submit" value="Отправить"/>
+    </form>
+</div>
+</body>
+</html>

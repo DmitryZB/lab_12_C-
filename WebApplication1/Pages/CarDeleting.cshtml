@@ -1,0 +1,25 @@
+@page
+@model WebApplication1.Pages.CarDelete
+
+@{
+    Layout = "Shared/_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+     <form method="post" asp-antiforgery="true">
+            <p>
+                <label asp-for="Name">Название</label><br/>
+                <input type="text" asp-for="Name"/>
+            </p>
+         <input type="submit" value="Отправить"/>
+        </form>
+</div>
+</body>
+</html>

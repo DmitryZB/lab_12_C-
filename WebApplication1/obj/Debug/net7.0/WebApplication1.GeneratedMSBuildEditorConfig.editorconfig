@@ -9,121 +9,121 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication1
 build_property.RootNamespace = WebApplication1
-build_property.ProjectDir = /Users/marmelad/RiderProjects/lab12/WebApplication1/
+build_property.ProjectDir = /Users/dimon/Desktop/PROGRAMMING/C#/lab12/WebApplication1/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/marmelad/RiderProjects/lab12/WebApplication1
+build_property.MSBuildProjectDirectory = /Users/dimon/Desktop/PROGRAMMING/C#/lab12/WebApplication1
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/AllDetails.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWxsRGV0YWlscy5jc2h0bWw=
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/AllCars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWxsQ2Fycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/AssemblyCreating.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXNzZW1ibHlDcmVhdGluZy5jc2h0bWw=
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/CarCreating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FyQ3JlYXRpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/AssemblyCreatingOk.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXNzZW1ibHlDcmVhdGluZ09rLmNzaHRtbA==
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/CarDeletedOk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FyRGVsZXRlZE9rLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/AssemblyDeletedOk.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXNzZW1ibHlEZWxldGVkT2suY3NodG1s
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/CarDeleting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FyRGVsZXRpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/AssemblyDeleting.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXNzZW1ibHlEZWxldGluZy5jc2h0bWw=
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/CarEditedOK.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FyRWRpdGVkT0suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/AssemblyEditing.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXNzZW1ibHlFZGl0aW5nLmNzaHRtbA==
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/CarEditing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FyRWRpdGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/AssemblyEditingForm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXNzZW1ibHlFZGl0aW5nRm9ybS5jc2h0bWw=
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/CarEditingForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FyRWRpdGluZ0Zvcm0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/AssemblyEditingOk.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXNzZW1ibHlFZGl0aW5nT2suY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/AssemblyView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXNzZW1ibHlWaWV3LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/AssemblyViewAll.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXNzZW1ibHlWaWV3QWxsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/AssemblyViewID.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXNzZW1ibHlWaWV3SUQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/DetailCreating.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGV0YWlsQ3JlYXRpbmcuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/DetailDeletedOk.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGV0YWlsRGVsZXRlZE9rLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/DetailDeleting.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGV0YWlsRGVsZXRpbmcuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/DetailEditedOK.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGV0YWlsRWRpdGVkT0suY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/DetailEditing.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGV0YWlsRWRpdGluZy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/DetailEditingForm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGV0YWlsRWRpdGluZ0Zvcm0uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/Error.cshtml]
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/Index.cshtml]
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/NoAssemblyDelete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTm9Bc3NlbWJseURlbGV0ZS5jc2h0bWw=
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/NoCarDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTm9DYXJEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/NoDetailDelete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTm9EZXRhaWxEZWxldGUuY3NodG1s
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/NoCarEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTm9DYXJFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/NoDetailEdit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTm9EZXRhaWxFZGl0LmNzaHRtbA==
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/NoTaxiDepotDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTm9UYXhpRGVwb3REZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/PartCreating.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFydENyZWF0aW5nLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/Privacy.cshtml]
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/_ViewImports.cshtml]
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/TaxiDepotCreating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGF4aURlcG90Q3JlYXRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/TaxiDepotCreatingOk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGF4aURlcG90Q3JlYXRpbmdPay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/TaxiDepotDeletedOk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGF4aURlcG90RGVsZXRlZE9rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/TaxiDepotDeleting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGF4aURlcG90RGVsZXRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/TaxiDepotEditing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGF4aURlcG90RWRpdGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/TaxiDepotEditingForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGF4aURlcG90RWRpdGluZ0Zvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/TaxiDepotEditingOk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGF4aURlcG90RWRpdGluZ09rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/TaxiDepotView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGF4aURlcG90Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/TaxiDepotViewAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGF4aURlcG90Vmlld0FsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/TaxiDepotViewID.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGF4aURlcG90Vmlld0lELmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/TaxiGroupCreating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGF4aUdyb3VwQ3JlYXRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/_ViewStart.cshtml]
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marmelad/RiderProjects/lab12/WebApplication1/Pages/Shared/_Layout.cshtml]
+[/Users/dimon/Desktop/PROGRAMMING/C\#/lab12/WebApplication1/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vri0k6kfv3

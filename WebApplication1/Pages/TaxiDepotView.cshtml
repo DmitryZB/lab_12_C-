@@ -1,0 +1,30 @@
+@page
+@model WebApplication1.Pages.TaxiDepotView
+
+@{
+    Layout = "Shared/_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+    <form method="post">
+        <p>
+            <label asp-for="TaxiDepotAddress">Адрес</label><br/>
+            <input type="text" asp-for="TaxiDepotAddress"/>
+        </p>
+        <button type="submit" asp-page-handler="ID">
+            Ввод
+        </button>
+        <button type="submit" asp-page-handler="All">
+            Все таксопарки
+        </button>
+    </form>
+</div>
+</body>
+</html>
